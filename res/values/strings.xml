@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Grid Image Search</string>
+    <string name="information">Information</string>
+    <string name="label_btn_ok">OK</string>
+    <string name="fail_to_search_image">Fail to search image, please try again.</string>
+    <string name="response_format_error">Response format error, please try again.</string>
+    <string name="image_title">Image Title</string>
+    <string name="search_not_found">Search not found</string>
+    <string name="image">Image</string>
+    <string name="input_keyword_hint">Please enter keyword</string>
+    <string name="search">Search</string>
+    <string name="unsupport_encoding_error">Search keyword contain the encoding not supported, please try another one.</string>
+    <string name="advanced">Advanced</string>
+    <string name="advanced_search_options">Advanced search options</string>
+    <string name="image_size">Image Size</string>
+    <string name="color_filter">Color Filter</string>
+    <string name="image_type">Image Type</string>
+    <string name="site_filter">Site Filter</string>
+    <string name="siter_filte_hint">Site name</string>
+    <string name="value">value</string>
+    <string name="image_descrition">Image Description</string>
+    <string name="image_visible_url">Image Visible URL</string>
+    <string name="share">Share</string>
+    <string name="share_to">Share to..</string>
+    
+    <string-array name="sp_image_size">
+        <item>none</item>
+        <item>small</item>
+        <item>medium</item>
+        <item>large</item>
+        <item>xlarge</item>
+    </string-array>
+    
+    <string-array name="sp_color_filter">
+        <item>none</item>
+        <item>black</item>
+        <item>blue</item>
+        <item>brown</item>
+        <item>gray</item>
+        <item>green</item>
+        <item>orange</item>
+        <item>pink</item>
+        <item>purple</item>
+        <item>red</item>
+        <item>teal</item>
+        <item>white</item>
+        <item>yellow</item>
+    </string-array>
+    
+    <string-array name="sp_image_type">
+        <item>none</item>
+        <item>face</item>
+        <item>photo</item>
+        <item>clipart</item>
+        <item>lineart</item>
+    </string-array>
+
+</resources>
